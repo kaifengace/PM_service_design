@@ -14,7 +14,8 @@
 ## [小组三页方案] 
 方案B链接   ： [合理商业引导](https://www.processon.com/apps/5f1113595653bb7fd23cdfa0)
 ## [用户旅程地图与服务蓝图原链接]   
-
+用户旅程地图链接   ： [用户旅程地图](https://www.processon.com/diagraming/5eec6c045653bb2925a7fc6c)    
+服务蓝图链接   ：  [服务蓝图](https://www.processon.com/diagraming/5ef86ebcf346fb1ae58174fd)    
 ## 用户旅程地图  
 
 ## 服务蓝图   
