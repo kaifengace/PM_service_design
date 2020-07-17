@@ -11,7 +11,7 @@
 ## 产品原仓库链接 ：[专门针对视障人士出行时遇到问题需要解决的APP](https://gitee.com/NFUNM008/APP_team)  
  
 ## [小组三页方案] 
-
+方案B链接   ： [合理商业引导](https://www.processon.com/apps/5f1113595653bb7fd23cdfa0)
 ## [用户旅程地图与服务蓝图原链接]   
 
 ## 用户旅程地图  
