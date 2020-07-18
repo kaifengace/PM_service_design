@@ -13,6 +13,8 @@
  
 ## [小组三页方案] 
 方案B链接   ： [合理商业引导](https://www.processon.com/apps/5f1113595653bb7fd23cdfa0)
+方案C链接：[使用中视障人士隐私保护](https://www.processon.com/view/link/5f0ad11f1e08530ca810b355
+)
 方案D链接：[志愿者培训](https://www.processon.com/apps/5f0dbde107912906d9a2a722)
 ## [用户旅程地图与服务蓝图原链接]   
 [用户旅程地图](https://www.processon.com/diagraming/5eec6c045653bb2925a7fc6c)    
