@@ -70,8 +70,8 @@ Soundscape 能够以用户所在的位置为中心点，把周围的地标按顺
 - 经过多方面研究，当前产品方案可以上线，因为本产品在前期的宣传、上线准备方面已经有较好的准备，产品在可用性和易用性方面也有较好的质量保证，后续需要注意在视障人士使用的便利性以及志愿者接受求助通知方面进行迭代的安排，确保用户使用体验的质量。
 ## [用户旅程地图与服务蓝图原链接]   
 [用户旅程地图](https://www.processon.com/diagraming/5eec6c045653bb2925a7fc6c)    
-[服务蓝图](https://www.processon.com/diagraming/5ef86ebcf346fb1ae58174fd)    
+[服务蓝图](https://www.processon.com/diagraming/5f142bf7e401fd06f3e2bd00)    
 ## 用户旅程地图  
 ![用户旅程地图](https://images.gitee.com/uploads/images/2020/0718/222618_787a5b23_1829793.jpeg "用户旅程地图.jpg")
 ## 服务蓝图   
- 
+![服务蓝图](https://images.gitee.com/uploads/images/2020/0719/210211_63055e4c_1829793.png "服务蓝图.png")
